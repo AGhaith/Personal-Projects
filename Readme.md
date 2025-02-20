@@ -8,7 +8,7 @@
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="https://github.com/AGhaith/TourneyPro/blob/master/Readme.md">        <img src="/Logos/Logo.png"          width="80%"></img></a></td>
+<td align="center"><a href="https://github.com/AGhaith/TourneyPro/blob/master/Readme.md">        <img src="/Logos/Logo.png"          width="50%"></img></a></td>
         </tr>
     </tbody>
 </table>
